@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Brand 1",
+      "logo": "brand1-logo.png",
+      "link": "/brand/brand1",
+      "description": "High-quality electronics."
+    },
+    {
+      "name": "Brand 2",
+      "logo": "brand2-logo.png",
+      "link": "/brand/brand2",
+      "description": "Leading fashion brand."
+    },
+    {
+      "name": "Brand 3",
+      "logo": "brand3-logo.png",
+      "link": "/brand/brand3",
+      "description": "Innovative home appliances."
+    },
+    {
+      "name": "Brand 4",
+      "logo": "brand4-logo.png",
+      "link": "/brand/brand4",
+      "description": "Affordable sports gear."
+    },
+    {
+      "name": "Brand 5",
+      "logo": "brand5-logo.png",
+      "link": "/brand/brand5",
+      "description": "Premium beauty products."
+    }
+  ]
+  

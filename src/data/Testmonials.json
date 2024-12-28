@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "avatar": "https://picsum.photos/536/354",
+      "testimonial": "This is the best product I have ever purchased! The quality is amazing, and the shipping was so fast.",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "avatar": "path_to_avatar2.jpg",
+      "testimonial": "I’m extremely happy with my purchase. The customer service was very helpful and responsive.",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "avatar": "path_to_avatar3.jpg",
+      "testimonial": "Great value for money. I will definitely shop here again. Highly recommended!",
+      "rating": 5
+    }
+  ]
+  

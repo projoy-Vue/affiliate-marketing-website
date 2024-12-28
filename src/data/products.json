@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 79.99,
+    "rating": 4.5,
+    "image": "https://picsum.photos/id/20/367/267",
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "category": "Electronics",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": 2,
+    "name": "Smartwatch",
+    "price": 149.99,
+    "rating": 4.7,
+    "image": "https://picsum.photos/id/20/367/267",
+    "description": "Feature-packed smartwatch with fitness tracking.",
+    "category": "Accessories",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Laptop Sleeve",
+    "price": 29.99,
+    "rating": 4.2,
+    "image": "https://picsum.photos/id/20/367/267",
+    "description": "Sleek and durable sleeve for your laptop.",
+    "category": "Accessories",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": 4,
+    "name": "Bluetooth Speaker",
+    "price": 49.99,
+    "rating": 4.4,
+    "image": "https://picsum.photos/id/25/367/267",
+    "description": "Portable speaker with rich sound quality.",
+    "category": "Electronics",
+    "featured": true,
+    "trending": false
+  },
+  {
+    "id": 5,
+    "name": "Gaming Mouse",
+    "price": 39.99,
+    "rating": 4.6,
+    "image": "https://picsum.photos/id/30/367/267",
+    "description": "Ergonomic gaming mouse with customizable buttons.",
+    "category": "Computers",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": 6,
+    "name": "Fitness Tracker",
+    "price": 59.99,
+    "rating": 4.3,
+    "image": "https://picsum.photos/id/35/367/267",
+    "description": "Track your steps, calories, and sleep patterns.",
+    "category": "Accessories",
+    "featured": false,
+    "trending": false
+  },
+  {
+    "id": 7,
+    "name": "Digital Camera",
+    "price": 399.99,
+    "rating": 4.5,
+    "image": "https://picsum.photos/id/40/367/267",
+    "description": "Compact digital camera with high-resolution images.",
+    "category": "Electronics",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": 8,
+    "name": "Wireless Charger",
+    "price": 24.99,
+    "rating": 4.1,
+    "image": "https://picsum.photos/id/45/367/267",
+    "description": "Fast wireless charging for compatible devices.",
+    "category": "Accessories",
+    "featured": false,
+    "trending": false
+  },
+  {
+    "id": 9,
+    "name": "4K TV",
+    "price": 699.99,
+    "rating": 4.8,
+    "image": "https://picsum.photos/id/50/367/267",
+    "description": "Ultra HD TV with stunning picture quality.",
+    "category": "Electronics",
+    "featured": true,
+    "trending": true
+  },
+  {
+    "id": 10,
+    "name": "Electric Kettle",
+    "price": 29.99,
+    "rating": 4.2,
+    "image": "https://picsum.photos/id/55/367/267",
+    "description": "Quick and efficient electric kettle for boiling water.",
+    "category": "Home Appliances",
+    "featured": false,
+    "trending": false
+  },
+  {
+    "id": 11,
+    "name": "Tablet",
+    "price": 199.99,
+    "rating": 4.5,
+    "image": "https://picsum.photos/id/60/367/267",
+    "description": "Lightweight tablet with a stunning display.",
+    "category": "Electronics",
+    "featured": true,
+    "trending": false
+  },
+  {
+    "id": 12,
+    "name": "Desk Lamp",
+    "price": 19.99,
+    "rating": 4.3,
+    "image": "https://picsum.photos/id/65/367/267",
+    "description": "Adjustable desk lamp with LED lighting.",
+    "category": "Furniture",
+    "featured": false,
+    "trending": true
+  },
+  {
+    "id": 13,
+    "name": "Noise-Canceling Earbuds",
+    "price": 99.99,
+    "rating": 4.6,
+    "image": "https://picsum.photos/id/70/367/267",
+    "description": "Compact earbuds with noise-canceling technology.",
+    "category": "Electronics",
+    "featured": true,
+    "trending": true
+  }
+]
+
+  
+  
+  
